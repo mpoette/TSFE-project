@@ -15,6 +15,9 @@ Dynamic prediction of outcomes in intensive care — this project is organized a
 - **[TSFE Methodology](https://github.com/mpoette/TSFE_methodologie)**
   Time series feature extraction and deep learning benchmark for outcome prediction.
 
+- **[Validation on MIMIC-IV Data](https://github.com/mpoette/mimic-validation)**
+  External validation on the MIMIC-IV database: data extraction, preprocessing, and adaptation of the TSFE methodology to an independent cohort.
+
 ## About
 
 This work is developed at CHU Toulouse, in collaboration with IRIT (CNRS UMR5505) and RESTORE (Inserm UMR1301).Z
