@@ -3,9 +3,9 @@ layout: default
 title: DyPO-ICU
 ---
 
-# DyPO-ICU
+ TSFE Project — Time Series Feature Extraction for ICU Outcome Prediction
 
-Dynamic prediction of outcomes in intensive care — this project is organized across several repositories, each covering a specific part of the pipeline.
+This project investigates time series feature extraction (TSFE) methods for predicting clinical outcomes in intensive care, benchmarked against deep learning approaches. It covers the full pipeline, from raw ICU data extraction to model development and external validation on an independent cohort.
 
 ## Project components
 
@@ -20,4 +20,4 @@ Dynamic prediction of outcomes in intensive care — this project is organized a
 
 ## About
 
-This work is developed at CHU Toulouse, in collaboration with IRIT (CNRS UMR5505) and RESTORE (Inserm UMR1301).Z
+This work is developed at CHU Toulouse, in collaboration with the Institut de Recherche en Informatique de Toulouse (IRIT, CNRS UMR5505).
